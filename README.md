@@ -1,6 +1,17 @@
 # Express MongoDB Node-JS Example 
 
 
+Features
+Perform CRUD operations on MongoDB Cloud 
+This project includes below features 
+
+1. Create a record 
+2. Update a record 
+3. Get all records 
+4. Get single record 
+5. Delete single record 
+
+
 To use this example project 
 
 Prerequisite :

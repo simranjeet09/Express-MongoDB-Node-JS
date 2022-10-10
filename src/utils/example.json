@@ -1,0 +1,17 @@
+[
+    {
+        "CourseID": 1,
+        "CourseName": "Mobile App APIs",
+        "CourseDescription": "API Loreum Ipsum Doler Set Amet"
+    },
+    {
+        "CourseID": 2,
+        "CourseName": "Android",
+        "CourseDescription": " Android Loreum Ipsum Doler Set Amet"
+    },
+    {
+        "CourseID": 3,
+        "CourseName": "iOS",
+        "CourseDescription": "IOS Loreum Ipsum Doler Set Amet"
+    }
+]
